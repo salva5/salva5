@@ -6,7 +6,7 @@
 **salva5/salva5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - ❤️ Me encanta escribir código y aprender nuevas tecnologías
-- 🔭 Actualmente trabajo con Javascript
+- 🔭 Actualmente trabajo con Javascript, React, Express, Sequelize, PostgreSQL
 - 🌱 Actualmente estoy aprendiendo Typescript 
 - 👯 Estoy buscando una oportunidad en una empresa que no solo me permita expandir mis habilidades y conocimientos,sino donde tambien pueda contribuir con ellos. Estoy comprometido en colaborar de manera efectiva y trabajar en equipo para alcanzar los objetivos de la empresa."
 - 📧 Comuníquese conmigo en cualquier momento: salvador.cahuana3@gmail.com
