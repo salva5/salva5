@@ -1,4 +1,4 @@
-## <div aling="center">Hola, mi nombre es Salvador 👋 </div>
+## <div aling="center">Hola, mi nombre es Salvador 👋</div>
 
 ## Acerca de mi  
 ### <div align="center">Soy  un developer full stack apasionado con experiencia academica en desarrollo web 👨‍💻. Mi objetivo es crear soluciones de software eficientes y elegantes que resuelvan problemas del mundo real.</div>  
