@@ -5,8 +5,6 @@
 <!--
 **salva5/salva5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 - ❤️ Me encanta escribir código y aprender nuevas tecnologías
 - 🔭 Actualmente trabajo con Javascript
 - 🌱 Actualmente estoy aprendiendo Typescript 
