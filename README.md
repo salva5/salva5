@@ -1,7 +1,7 @@
 ## <div aling="center">Hola, mi nombre es Salvador 👋</div>
 
 ## Acerca de mi  
-### <div align="center">Soy  un developer full stack apasionado con experiencia academica en desarrollo web 👨‍💻. Mi objetivo es crear soluciones de software eficientes y elegantes que resuelvan problemas del mundo real.</div>  
+### <div align="center">Soy  un developer full stack apasionado por el  desarrollo web 👨‍💻. Mi objetivo es crear soluciones de software eficientes y elegantes que resuelvan problemas del mundo real.</div>  
 <!--
 **salva5/salva5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
