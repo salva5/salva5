@@ -7,7 +7,7 @@
 -->
 - ❤️ Me encanta escribir código y aprender nuevas tecnologías
 - 🔭 Actualmente trabajo con Javascript, React, Node, Express, Sequelize, PostgreSQL
-- 🌱 Actualmente estoy aprendiendo Typescript 
+- 🌱 Actualmente estoy aprendiendo Java 
 - 👯 Estoy buscando una oportunidad en una empresa que no solo me permita expandir mis habilidades y conocimientos,sino donde tambien pueda contribuir con ellos. Estoy comprometido en colaborar de manera efectiva y trabajar en equipo para alcanzar los objetivos de la empresa."
 - 📧 Comuníquese conmigo en cualquier momento: salvador.cahuana3@gmail.com
 ## My Skill Set  
